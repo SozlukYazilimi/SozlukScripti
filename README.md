@@ -4,7 +4,7 @@ sözlük yazılımı domaini üzerinden yayın yapan, türkiye'nin en gelişmiş
 
 iletişim bilgileri;
 
-site : sozlukyazilimi.com
+site : https://sozlukyazilimi.com
 
 mail : iletisim@sozlukyazilimi.com
 
